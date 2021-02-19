@@ -1,2 +1,6 @@
 # Numbers-Hand-Gesture-Recognition
-Train A neural Network using PyTorch to recognize numbers from a hand gesture
+Train a neural Network model using PyTorch to recognize numbers from a hand gesture.
+
+![Predictions](predictions.gif)
+
+![Accuracy](accuracy.png)
